@@ -1,0 +1,42 @@
+body {
+    background-image: url(0bfc4e50-afd5-44cd-9652-1282fd910356.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(68, 28, 28);
+    text-align: center;
+}
+
+span {
+    font-weight: bold;
+}
+
+.primeirafoto{
+    margin-top: 200px;
+    background: none;
+}
+
+div {
+    margin-top: 150px;
+    font-size: 25px;
+    background-color: #f8f5d5;
+}
+
+h1 {
+    font-size: 50px;
+    color: #f8f5d5;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+img {
+    align-items: center;
+    width: 300px;
+ }
+
+.final {
+    margin-bottom: 0px;
+    margin-top: 100px;
+    
+}
